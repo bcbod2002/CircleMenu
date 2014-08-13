@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CircleMenu.h"
+#import "CircleItem.h"
 
-@interface MainViewController : UIViewController
+@interface MainViewController : UIViewController <CircleMenuDelegate>
 
 @end
