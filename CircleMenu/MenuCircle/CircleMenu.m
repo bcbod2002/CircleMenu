@@ -3,7 +3,7 @@
 //  CircleMenu
 //
 //  Created by shinsoft on 2013/12/30.
-//  Copyright (c) 2013年 shinsoft. All rights reserved.
+//  Copyright (c) 2013年 Goston. All rights reserved.
 //
 
 #import "CircleMenu.h"
